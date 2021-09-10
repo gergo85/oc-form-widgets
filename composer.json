@@ -1,0 +1,11 @@
+{
+    "name": "indikator/form-plugin",
+    "type": "october-plugin",
+    "description": "This plugin extend the back-end forms to new field types.",
+    "homepage": "https://octobercms.com/plugin/indikator-form",
+    "keywords": ["october", "octobercms"],
+    "license": "MIT",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
